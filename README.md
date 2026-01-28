@@ -1,3 +1,5 @@
+![Dark banner with the text ‘GitHub Copilot Dev Days’ beside a green 3D block featuring the GitHub logo.](assets/github-copilot-dev-days.png)
+
 # GitHub Copilot Dev Days
 
 The **GitHub Copilot Dev Days** event series is a global, in-person user group initiative running from March to April 2026. Our goal is to bring together developers, enthusiasts, and local communities to explore the power of GitHub Copilot in AI-assisted coding.
