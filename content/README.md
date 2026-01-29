@@ -1,47 +1,101 @@
-# 📂 Content
+# 📚 Content
 
-In this content folder, you will find the **presentation slides** and a list of hands-on labs. You can choose the labs that best fit your audience's skill level and interests.
+This folder contains the **official content** for **GitHub Copilot Dev Days**, including presentation slides and hands-on labs.
+Organizers can select content based on their audience, event format, and available time.
 
-Your agenda will look like this:
+> 📅 **Content availability**
+> All content listed below will be published during the week of **February 16**.
 
-|       |              Content             |                       Time                       |                     Learning Goal                 |                     Link                 |
-| :---: | :------------------------------------: | :---------------------------------------------------------: | ----------------------------------------------------------- | ----------------------------------------------------------- |
-| 01 | To be defined | xx~xx minutes|  To be defined                   | *See below* |
-| 02 | To be defined | xx~xx minutes|  To be defined                   | *See below* |
-| 03 | To be defined | xx~xx minutes|  To be defined                   | *See below* |
+## 🗓️ Sample Agenda (Sessions + Workshop)
 
-## 📚 Slides
+This is a suggested agenda for events following the **Sessions + Workshop** format
+(approximately **3 hours total**).
 
-|        Content Name        |                Slide File Link                |   
-| :-----------------------: | :-------------------------------------------: | 
-| To be defined | To be defined | 
+| Order | Session                                | Type         | Estimated Time | Description                                                                           |
+| ----: | -------------------------------------- | ------------ | -------------- | ------------------------------------------------------------------------------------- |
+|    01 | GitHub Copilot Dev Days – Core Content | Session      | 30–45 min      | Core technical content provided by the GitHub Copilot Dev Days program.               |
+|    02 | Community Session                      | Session      | 30–45 min      | A session led by the local community, showcasing real-world use cases or experiences. |
+|    03 | Hands-on Lab                           | Hands-on Lab | 60 min         | Guided, practical exercises using GitHub Copilot.                                     |
 
-## 🗃️ Workshops
+> This agenda combines **official content**, **community-led sessions**, and **hands-on practice** in a balanced format.
 
-### Beginner
+## 🧭 Programming Format
 
-|              Lesson Link              |                       Concepts Taught                       |                     Learning Goal                 |
-| :------------------------------------: | :---------------------------------------------------------: | ----------------------------------------------------------- |
-| [Getting Started with GitHub Copilot](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming/tree/main/Getting-Started-with-GitHub-Copilot) | GitHub Copilot is an AI coding assistant that can help you write code faster and with less effort, allowing you to focus more energy on problem solving and collaboration. |  In this exercise, you'll unlock the potential of this AI-powered coding assistant to accelerate your development process. |
-| [Creating a Mini Game with GitHub Copilot](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming/tree/main/Creating-Mini-Game-with-GitHub-Copilot) | Use GitHub Copilot to assist you in building a Python-based mini game. | Craft prompts that can generate useful suggestions from GitHub Copilot to incorporate gaming logic and improve your Python-based game. |
+GitHub Copilot Dev Days content supports two event formats:
 
-### Intermediate
+* **Sessions-only** — select technical sessions based on your audience
+* **Sessions + Workshop** — recommended **3-hour format**, including:
 
-|              Lesson Link              |                       Concepts Taught                       |                     Learning Goal                 |
-| :------------------------------------: | :---------------------------------------------------------: | ----------------------------------------------------------- |
-| [Pets workshop](https://github.com/github-samples/pets-workshop/tree/main/content/1-hour) | Use GitHub Copilot to build and improve a pet-themed web app with a Flask backend and Astro/Svelte frontend. | Learn to use GitHub Copilot to efficiently create and document API endpoints in Flask, streamlining your coding workflow. |
-| [Integrate MCP with GitHub Copilot](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming/tree/main/Integrate-MCP-with-Copilot) | Use Model Context Protocol (MCP) to expand GitHub Copilot's capabilities and enhance your development workflow. | Integrate a GitHub MCP server with GitHub Copilot. Delegate tasks to Copilot from issue research to pull request implementation. Build a mixed development workflow using GitHub Copilot for project management. |
-| [Hands-on with GitHub Copilot: Building AI-Powered Study Plans with GitHub Models](https://github.com/microsoft/lab-study-app) | Use GitHub Copilot and GitHub Models to generate personalized study plans through a Flask-based web application. | Build and customize an AI-powered study planning tool with GitHub Copilot and GitHub Models. Set up a Flask application, design effective prompts to create personalized learning paths, and incorporate accessibility testing using custom chat modes. |
-| [Using GitHub Copilot with JavaScript](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming/tree/main/Using-GitHub-Copilot-with-JavaScript) | Use GitHub Copilot, via agentic mode, to work with JavaScript. | Enable the GitHub Copilot extension in Visual Studio Code. Craft prompts that can generate useful suggestions from GitHub Copilot. Use GitHub Copilot to improve a JavaScript project. |
-| [Using GitHub Copilot with Python](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming/tree/main/Using-GitHub-Copilot-with-Python) | Use GitHub Copilot, via agentic mode, to work with Python. | Enable the GitHub Copilot extension in Visual Studio Code. Craft prompts that can generate useful suggestions from GitHub Copilot. Use GitHub Copilot to improve a Python project. |
-| [Using GitHub Copilot with C#](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming/tree/main/Using-GitHub-Copilot-with-CSharp) | Use GitHub Copilot, via agentic mode, to work with C#. | Enable the GitHub Copilot extension in Visual Studio Code. Craft prompts that can generate useful suggestions from GitHub Copilot. Use GitHub Copilot to improve a C# Minimal API project. |
+  * **2 technical sessions:** each session should be between 30 to 45 minutes long
+  * **1 hands-on workshop:** minimum of 60 minutes for practical exercises using GitHub Copilot
 
-### Advanced
+Each content item below includes its **type**, **estimated time**, and **level** to help you build a well-balanced agenda.
 
-|              Lesson Link              |                       Concepts Taught                       |                     Learning Goal                 |
-| :------------------------------------: | :---------------------------------------------------------: | ----------------------------------------------------------- |
-| [Using Advanced GitHub Copilot Features](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming/tree/main/Using-Advanced-GitHub-Copilot-Features) | Use advanced GitHub Copilot features like inline chat, slash commands, and agents. | Interact with GitHub Copilot with deeper context on your project and ask questions about it. |
-| [Getting Started with Copilot for Azure to Deploy to the Cloud](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming/tree/main/Using-GitHub-Copilot-for-Azure-to-Deploy-to-Cloud) | Learn cloud deployment with GitHub Copilot for Azure—your ultimate guide to streamlined cloud success. | Effortless application deployment leveraging Azure’s powerful scalability. |
-| [Challenging GitHub Copilot with complex SQL](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming/tree/main/Challenging-GitHub-Copilot-with-SQL) | Apply advanced GitHub Copilot features to work with a challenging application working with a complex SQL query | Gain a clear understanding of how to work with extremely challenging SQL and yield better results when simple prompts don't work well |
-| [Upgrading Legacy project](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming/tree/main/Upgrading-Legacy-Projects) | Leverage GitHub Copilot to upgrade a legacy Python project to the latest version of Python. | Apply techniques to overcome the challenges involved in working with legacy projects |
-| [Migrating to a new language](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming/tree/main/Migrating-Languages) | Rewrite an existing application using a different language with the guidance of GitHub Copilot | Use advanced workflows with GitHub Copilot applicable when translating projects to different programming languages |
+## 📚 Content Tracks
+
+Content is organized by **technology track**.
+Each track may include **sessions**, **hands-on labs**, or both.
+
+### 🟦🟨 GitHub Copilot in VS Code for TS / JS
+
+| Name          | Type         | Time      | Description / Concepts Taught | Level         |
+| ------------- | ------------ | --------- | ----------------------------- | ------------- |
+| To be defined | Session      | 30–45 min | To be defined                 | To be defined |
+| To be defined | Hands-on Lab | 60 min    | To be defined                 | To be defined |
+
+### 🐍 GitHub Copilot in VS Code for Python
+
+| Name          | Type         | Time      | Description / Concepts Taught | Level         |
+| ------------- | ------------ | --------- | ----------------------------- | ------------- |
+| To be defined | Session      | 30–45 min | To be defined                 | To be defined |
+| To be defined | Hands-on Lab | 60 min    | To be defined                 | To be defined |
+
+### ☕ GitHub Copilot in VS Code for Java
+
+| Name          | Type         | Time      | Description / Concepts Taught | Level         |
+| ------------- | ------------ | --------- | ----------------------------- | ------------- |
+| To be defined | Session      | 30–45 min | To be defined                 | To be defined |
+| To be defined | Hands-on Lab | 60 min    | To be defined                 | To be defined |
+
+### 🔷 GitHub Copilot in VS Code for .NET / C#
+
+| Name          | Type         | Time      | Description / Concepts Taught | Level         |
+| ------------- | ------------ | --------- | ----------------------------- | ------------- |
+| To be defined | Session      | 30–45 min | To be defined                 | To be defined |
+| [**.NET 10 + Blazor WebAssembly – VS Code Copilot Agent Lab**](https://dotnet-presentations.github.io/vscode-github-copilot-agent-lab/) | Hands-on Lab | ~60 min | Build a Social Bingo game while exploring GitHub Copilot Agent Mode in VS Code. Covers context engineering, custom and cloud agents, design-first development, and agent-driven TDD workflows. | Intermediate |
+
+### 💠 GitHub Copilot in Visual Studio for .NET
+
+| Name          | Type         | Time      | Description / Concepts Taught | Level                    |
+| ------------- | ------------ | --------- | ----------------------------- | ------------------------ |
+| To be defined | Session      | 30–45 min | To be defined                 | To be defined            |
+| [**.NET 10 + .NET MAUI – Visual Studio 2026**](https://dotnet-presentations.github.io/dotnet-maui-workshop/) | Hands-on Lab | ~240 min | Build a Monkey Finder cross-platform app while learning .NET MAUI fundamentals. Covers MVVM and data binding, Shell navigation, platform features (GPS, connectivity, maps), CollectionView patterns, and app theming across Android, iOS, macOS, and Windows. | Beginner / Intermediate |
+| [**.NET 10 + Blazor + Visual Studio 2026**](https://dotnet-presentations.github.io/visual-studio-github-copilot-lab/) | Hands-on Lab | ~120 min | Build a TinyShop e-commerce app while mastering GitHub Copilot in Visual Studio. Covers intelligent code completion (including NES), Agent mode for multi-file changes, MCP servers, cloud delegation, and AI-first development workflows. | Intermediate |
+
+### 🍎 GitHub Copilot for Xcode & Apple Developers
+
+| Name          | Type         | Time      | Description / Concepts Taught | Level         |
+| ------------- | ------------ | --------- | ----------------------------- | ------------- |
+| To be defined | Session      | 30–45 min | To be defined                 | To be defined |
+| To be defined | Hands-on Lab | 60 min    | To be defined                 | To be defined |
+
+### 💡 GitHub Copilot for IntelliJ, Eclipse & Java Developers
+
+| Name          | Type         | Time      | Description / Concepts Taught | Level         |
+| ------------- | ------------ | --------- | ----------------------------- | ------------- |
+| To be defined | Session      | 30–45 min | To be defined                 | To be defined |
+| To be defined | Hands-on Lab | 60 min    | To be defined                 | To be defined |
+
+### ⌨️ GitHub Copilot CLI
+
+| Name          | Type         | Time      | Description / Concepts Taught | Level         |
+| ------------- | ------------ | --------- | ----------------------------- | ------------- |
+| To be defined | Session      | 30–45 min | To be defined                 | To be defined |
+| To be defined | Hands-on Lab | 60 min    | To be defined                 | To be defined |
+
+## 🧠 How to use this content
+
+* Use **sessions** to introduce concepts and workflows
+* Use **hands-on labs** for guided, practical learning
+* Match **content level** to your audience experience
+* Prefer **one hands-on lab per event** to ensure enough execution time

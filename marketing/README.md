@@ -1,24 +1,21 @@
 # 📣 Marketing Toolkit
 
-This marketing toolkit provides everything you need to successfully promote your GitHub Copilot Dev Days event. All materials are professionally designed and ready to customize with your event details.
+This marketing toolkit provides everything you need to successfully promote your **GitHub Copilot Dev Days** event. All materials are professionally designed and ready to customize with your event details.
 
 ## 📥 Getting Started
 
-1. **Download** the PowerPoint templates from this folder
+1. **Download** [the PowerPoint templates from this folder](./templates/)
 2. **Customize** with your event information (date, time, location)
 3. **Save in JPG or PNG** format to use on social media and registration pages
 
-## 🎨 Event Cover Images
+> 💡 You can also use the **[Registration Page template](draft-registration-page.md)** available in this toolkit to ensure consistent messaging between your event page and promotional assets.
 
-These high-quality cover images are perfect for event registration pages, social media promotion, and general marketing materials. Both options maintain consistent VS Code Dev Days branding while offering different visual styles.
+## 🎨 Event Cover Image
 
-### Design Specifications
+This high-quality cover image is designed for event registration pages, social media promotion, and general marketing materials.
+It maintains consistent **GitHub Copilot Dev Days** branding and can be customized with your event details.
 
-- **Resolution**: Optimized for web and social media (LinkedIn, Facebook, Twitter/X)
-
-| Option 1: Code Editor Focus                | Option 2: Modern Gradient                  |
-|---------------------------------------------|---------------------------------------------|
-| To be created | To be created |
+![Promotional graphic for “GitHub Copilot Dev Days.” The left side has a black background with the GitHub Copilot logo at the top and placeholder text for city, date, time, and location. The right side features a 3D illustration of the Copilot character floating above a green gradient panel with the GitHub mark.](../assets/example-event-cover.png)
 
 ## 📱 Social Media Templates
 
@@ -26,33 +23,35 @@ Our social media templates are designed to maximize engagement across all major 
 
 ### Platform Specifications
 
-| Platform | Dimensions | Template Features |
-|----------|------------|-------------------|
-| **Instagram Feed** | 1080 x 1350px | Square format |
-| **Instagram Stories/Reels** | 1080 x 1920px | Vertical format optimized for mobile viewing |
-| **LinkedIn, X, BlueSky and Facebook** | 1080 x 1080px | Optimized for multiple platforms |
+| Platform                              | Dimensions    | Template Features                            |
+| ------------------------------------- | ------------- | -------------------------------------------- |
+| **Instagram Feed**                    | 1080 × 1350px | Square format                                |
+| **Instagram Stories/Reels**           | 1080 × 1920px | Vertical format optimized for mobile viewing |
+| **LinkedIn, X, BlueSky and Facebook** | 1080 × 1080px | Optimized for multiple platforms             |
 
 ### Template Features
 
-- ✅ **Consistent branding** with VS Code Dev Days identity.
-- ✅ **Placeholder text** for easy customization.
-- ✅ **High-contrast design** for better readability.
-- ✅ **Multiple format options** for different content types.
-- ✅ **Professional quality** suitable for corporate sharing.
+* ✅ **Consistent branding** with GitHub Copilot Dev Days identity
+* ✅ **Placeholder text** for easy customization
+* ✅ **High-contrast design** for better readability
+* ✅ **Multiple format options** for different content types
+* ✅ **Professional quality** suitable for corporate sharing
+
+---
 
 ## 📋 Customization Guide
 
-### Required Information to Add:
+### Required Information to Add
 
-- [ ] **Event date** (e.g., "April 15, 2025")
-- [ ] **Event time** (e.g., "2:00 PM - 5:00 PM")
-- [ ] **Location/City** (e.g., "Sao Paulo, Brazil" or "Virtual Event")
-- [ ] **Registration link** (your event registration URL)
-- [ ] **Contact information** (optional: organizer details)
+* [ ] **Event name**: `GitHub Copilot Dev Days [City Name]`
+* [ ] **Event date** (e.g., "April 15, 2026")
+* [ ] **Event time** (e.g., "2:00 PM – 5:00 PM")
+* [ ] **Location name** (e.g. "Tech Hub Conference Center")
+* [ ] **Registration link** (once you submit your registration page to us, we will provide a unique shortened URL that you can use here and to promote your event)
 
 ### Design Tips
 
-- **Keep text concise** - Focus on essential information.
-- **Maintain brand colors** - Use the existing VS Code color palette.
-- **Test readability** - Ensure text is visible on all devices.
-- **Include call-to-action** - Always add registration or contact information.
+* **Keep text concise:** focus on essential information
+* **Maintain brand colors:** use the existing VS Code color palette
+* **Test readability:** ensure text is visible on all devices
+* **Include call-to-action:** always add registration information
