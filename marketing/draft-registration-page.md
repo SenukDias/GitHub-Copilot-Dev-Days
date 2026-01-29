@@ -16,8 +16,8 @@ Customize it with your local event details, such as date, time, location, and ag
   * **Sessions + Workshop** (recommended duration: **3 hours**)
 * If you choose the **Sessions + Workshop** format, your agenda should include:
 
-  * **2 technical sessions**
-  * **1 hands-on workshop (1 hour)**
+  * **2 technical sessions:** each session should be between 30 to 45 minutes long
+  * **1 hands-on workshop:** minimum of 60 minutes for practical exercises using GitHub Copilot
 * 3️⃣ Clearly state whether participants need to **bring their own laptops** or if computers will be provided by the venue.
 
 ---
