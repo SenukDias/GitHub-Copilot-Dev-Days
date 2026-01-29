@@ -1,36 +1,41 @@
 ![Dark banner with the text ‘GitHub Copilot Dev Days’ beside a green 3D block featuring the GitHub logo.](assets/github-copilot-dev-days.png)
 
-# GitHub Copilot Dev Days
+# GitHub Copilot Dev Days 2026 – Community Event Kit
 
-The **GitHub Copilot Dev Days** event series is a global, in-person user group initiative running from March to April 2026. Our goal is to bring together developers, enthusiasts, and local communities to explore the power of GitHub Copilot in AI-assisted coding.
+> **✨ A global, community-led event series for developers to explore hands-on, AI-assisted coding with GitHub Copilot.**
 
-**GitHub Copilot Dev Days** are open to all developers and focus on practical, AI-assisted coding with GitHub Copilot. Led by local tech communities, these hands-on sessions and workshops will take place worldwide from **March to April 2026** and run for approximately 3 hours each.
+**GitHub Copilot Dev Days** is a global, in-person user group initiative taking place from **March to April 2026**. The series brings together developers, enthusiasts, and local tech communities to explore the power of GitHub Copilot through practical, hands-on experiences.
 
+Open to all developers, the events are led by local tech communities and designed to be highly practical. Each session runs for approximately **3 hours** and focuses on real-world workflows, hands-on activities, and workshops centered on AI-assisted coding with GitHub Copilot.
 
 ## 🌱 Getting Started
 
-If you're a community leader and want to host a GitHub Copilot Dev Days event, in this repo you will find resources and materials to help you plan and execute your event successfully.
+If you're a community leader and want to host a GitHub Copilot Dev Days event, this repository includes everything you need to plan, organize, and promote your event successfully.
 
-**To make it easier to revisit this repository in the future, you can also [star (🌟) this repo](https://docs.github.com/en/get-started/exploring-projects-on-github/saving-repositories-with-stars) this repo.**
+**To make it easier to come back later, you can also [star (🌟) this repository](https://docs.github.com/en/get-started/exploring-projects-on-github/saving-repositories-with-stars).**
+
+---
+
+### 🗓️ Event formats
+
+**GitHub Copilot Dev Days** can be hosted in **two formats**, depending on your community’s experience, audience, **and available infrastructure**.
+
+**1️⃣ Sessions-only format:** Focused on technical talks and demos around GitHub Copilot.
+
+**2️⃣ Sessions + Workshop format:** Combines technical sessions with a hands-on workshop for deeper, practical learning.
+
+Both formats are designed to be interactive and hands-on, encouraging participants to learn by doing.
+
+---
 
 ### 📚 Resources available
 
-| Topic | Description | Resources |
-| :--- | :--- | :--- |
-| 📁 [**Content**](/content) | Technical content for sessions and workshops. | Presentation slides, hands-on labs |
-| 📁 [**Organization Guide**](/organization) | Step-by-step guidance for planning, organizing, and running successful events, with checklists and templates. | Event checklist, registration page draft |
-| 📁 [**Promotional Materials**](/marketing) | Marketing toolkit to help you promote your event, featuring social media templates and reference texts. | Event covers, social media templates |
+| Topic                                      | Description                                                         | Resources                                |
+| :----------------------------------------- | :------------------------------------------------------------------ | :--------------------------------------- |
+| 📁 [**Organization Guide**](/organization) | Practical guidance to plan and run your event from start to finish. | Event checklist, registration page draft |
+| 📁 [**Content**](/content)                 | Technical content for sessions and workshops.                       | Presentation slides, hands-on labs       |
+| 📁 [**Marketing**](/marketing)       | Materials and templates to help you promote your event.             | Social media templates, event covers     |
 
-### 🗓️ Event format
-
-The **GitHub Copilot Dev Days** is designed to be a hands-on experience, allowing participants to learn by doing.  
-**The event agenda should follow the standard structure outlined below.**
-
-| #  | Topic                                              | Duration      | Description                                                                 | Resources                |
-|----|----------------------------------------------------|--------------|-----------------------------------------------------------------------------|--------------------------|
-| 01 | To be defined                              | To be defined | To be defined                             | [📁 **Content folder**](/content/)            |
-| 02 | To be defined                                 | To be defined | To be defined | **Chosen by community**  |
-| 03 | To be defined                                          | To be defined   | To be defined                             | [📁 **Content folder**](/content/) |
 
 ## Contributing
 
