@@ -93,6 +93,13 @@ Each track may include **sessions**, **hands-on labs**, or both.
 | To be defined | Session      | 30–45 min | To be defined                 | To be defined |
 | To be defined | Hands-on Lab | 60 min    | To be defined                 | To be defined |
 
+### ☁️ Leverage the GitHub Copilot Cloud Agent for Asynchronous Development 
+
+| Name          | Type         | Time      | Description / Concepts Taught | Level         |
+| ------------- | ------------ | --------- | ----------------------------- | ------------- |
+| To be defined | Session      | 30–45 min | To be defined                 | To be defined |
+| To be defined | Hands-on Lab | 60 min    | To be defined                 | To be defined |
+
 ## 🧠 How to use this content
 
 * Use **sessions** to introduce concepts and workflows
