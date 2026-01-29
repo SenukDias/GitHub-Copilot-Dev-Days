@@ -31,74 +31,73 @@ GitHub Copilot Dev Days content supports two event formats:
 
 Each content item below includes its **type**, **estimated time**, and **level** to help you build a well-balanced agenda.
 
-## 📚 Content Tracks
+## ✨ GitHub Copilot Dev Days – Core Content Session
+This session can be used in every GitHub Copilot Dev Days event.
 
-Content is organized by **technology track**.
-Each track may include **sessions**, **hands-on labs**, or both.
+| Name          | Type         | Time      | Description / Concepts Taught | Level         |
+| ------------- | ------------ | --------- | ----------------------------- | ------------- |
+| **GitHub Copilot Dev Days - Core Content** - coming soon | Session | ~30 min | Coming Soon | Beginner |
+
+
+## 📚 Content Tracks - Workshops
+
+Workshop content is organized by **technology track**.
+Each track includes the **GitHub Copilot Dev Days – Core Content Session** and one of the **hands-on workshops**.
 
 ### 🟦🟨 GitHub Copilot in VS Code for TS / JS
 
 | Name          | Type         | Time      | Description / Concepts Taught | Level         |
 | ------------- | ------------ | --------- | ----------------------------- | ------------- |
-| To be defined | Session      | 30–45 min | To be defined                 | To be defined |
-| To be defined | Hands-on Lab | 60 min    | To be defined                 | To be defined |
+| [**VS Code Copilot Agent Lab**](https://github.com/microsoft/vscode-agent-lab-soc-ops) | Hands-on Lab | ~60 min | Build a Social Bingo game while exploring GitHub Copilot Agent Mode in VS Code. Covers context engineering, custom and cloud agents, design-first development, and agent-driven TDD workflows. | Intermediate |
 
 ### 🐍 GitHub Copilot in VS Code for Python
 
 | Name          | Type         | Time      | Description / Concepts Taught | Level         |
 | ------------- | ------------ | --------- | ----------------------------- | ------------- |
-| To be defined | Session      | 30–45 min | To be defined                 | To be defined |
-| To be defined | Hands-on Lab | 60 min    | To be defined                 | To be defined |
+| Coming Soon | Hands-on Lab | 60 min    | To be defined                 | To be defined |
 
 ### ☕ GitHub Copilot in VS Code for Java
 
 | Name          | Type         | Time      | Description / Concepts Taught | Level         |
 | ------------- | ------------ | --------- | ----------------------------- | ------------- |
-| To be defined | Session      | 30–45 min | To be defined                 | To be defined |
-| To be defined | Hands-on Lab | 60 min    | To be defined                 | To be defined |
+| Coming Soon | Hands-on Lab | 60 min    | To be defined                 | To be defined |
 
 ### 🔷 GitHub Copilot in VS Code for .NET / C#
 
 | Name          | Type         | Time      | Description / Concepts Taught | Level         |
 | ------------- | ------------ | --------- | ----------------------------- | ------------- |
-| To be defined | Session      | 30–45 min | To be defined                 | To be defined |
 | [**.NET 10 + Blazor WebAssembly – VS Code Copilot Agent Lab**](https://dotnet-presentations.github.io/vscode-github-copilot-agent-lab/) | Hands-on Lab | ~60 min | Build a Social Bingo game while exploring GitHub Copilot Agent Mode in VS Code. Covers context engineering, custom and cloud agents, design-first development, and agent-driven TDD workflows. | Intermediate |
 
 ### 💠 GitHub Copilot in Visual Studio for .NET
 
 | Name          | Type         | Time      | Description / Concepts Taught | Level                    |
 | ------------- | ------------ | --------- | ----------------------------- | ------------------------ |
-| To be defined | Session      | 30–45 min | To be defined                 | To be defined            |
-| [**.NET 10 + .NET MAUI – Visual Studio 2026**](https://dotnet-presentations.github.io/dotnet-maui-workshop/) | Hands-on Lab | ~240 min | Build a Monkey Finder cross-platform app while learning .NET MAUI fundamentals. Covers MVVM and data binding, Shell navigation, platform features (GPS, connectivity, maps), CollectionView patterns, and app theming across Android, iOS, macOS, and Windows. | Beginner / Intermediate |
 | [**.NET 10 + Blazor + Visual Studio 2026**](https://dotnet-presentations.github.io/visual-studio-github-copilot-lab/) | Hands-on Lab | ~120 min | Build a TinyShop e-commerce app while mastering GitHub Copilot in Visual Studio. Covers intelligent code completion (including NES), Agent mode for multi-file changes, MCP servers, cloud delegation, and AI-first development workflows. | Intermediate |
+| [**.NET 10 + .NET MAUI – Visual Studio 2026**](https://dotnet-presentations.github.io/dotnet-maui-workshop/) | Hands-on Lab | ~240 min | Build a Monkey Finder cross-platform app while learning .NET MAUI fundamentals. Covers MVVM and data binding, Shell navigation, platform features (GPS, connectivity, maps), CollectionView patterns, and app theming across Android, iOS, macOS, and Windows. | Beginner / Intermediate |
 
 ### 🍎 GitHub Copilot for Xcode & Apple Developers
 
 | Name          | Type         | Time      | Description / Concepts Taught | Level         |
 | ------------- | ------------ | --------- | ----------------------------- | ------------- |
-| To be defined | Session      | 30–45 min | To be defined                 | To be defined |
-| To be defined | Hands-on Lab | 60 min    | To be defined                 | To be defined |
+| Coming Soon | Hands-on Lab | 60 min    | To be defined                 | To be defined |
 
 ### 💡 GitHub Copilot for IntelliJ, Eclipse & Java Developers
 
 | Name          | Type         | Time      | Description / Concepts Taught | Level         |
 | ------------- | ------------ | --------- | ----------------------------- | ------------- |
-| To be defined | Session      | 30–45 min | To be defined                 | To be defined |
-| To be defined | Hands-on Lab | 60 min    | To be defined                 | To be defined |
+| Coming Soon | Hands-on Lab | 60 min    | To be defined                 | To be defined |
 
 ### ⌨️ GitHub Copilot CLI
 
 | Name          | Type         | Time      | Description / Concepts Taught | Level         |
 | ------------- | ------------ | --------- | ----------------------------- | ------------- |
-| To be defined | Session      | 30–45 min | To be defined                 | To be defined |
-| To be defined | Hands-on Lab | 60 min    | To be defined                 | To be defined |
+| Coming Soon | Hands-on Lab | 60 min    | To be defined                 | To be defined |
 
 ### ☁️ Leverage the GitHub Copilot Cloud Agent for Asynchronous Development 
 
 | Name          | Type         | Time      | Description / Concepts Taught | Level         |
 | ------------- | ------------ | --------- | ----------------------------- | ------------- |
-| To be defined | Session      | 30–45 min | To be defined                 | To be defined |
-| To be defined | Hands-on Lab | 60 min    | To be defined                 | To be defined |
+| Coming Soon | Hands-on Lab | 60 min    | To be defined                 | To be defined |
 
 ## 🧠 How to use this content
 
