@@ -4,24 +4,18 @@ This marketing toolkit provides everything you need to successfully promote your
 
 ## 📥 Getting Started
 
-1. **Download** the PowerPoint templates from this folder
+1. **Download** [the PowerPoint templates from this folder](./templates/)
 2. **Customize** with your event information (date, time, location)
 3. **Save in JPG or PNG** format to use on social media and registration pages
 
 > 💡 You can also use the **[Registration Page template](draft-registration-page.md)** available in this toolkit to ensure consistent messaging between your event page and promotional assets.
-
----
 
 ## 🎨 Event Cover Image
 
 This high-quality cover image is designed for event registration pages, social media promotion, and general marketing materials.
 It maintains consistent **GitHub Copilot Dev Days** branding and can be customized with your event details.
 
-### Design Specifications
-
-* **Resolution**: Optimized for web and social media (LinkedIn, Facebook, Twitter/X)
-
----
+![Promotional graphic for “GitHub Copilot Dev Days.” The left side has a black background with the GitHub Copilot logo at the top and placeholder text for city, date, time, and location. The right side features a 3D illustration of the Copilot character floating above a green gradient panel with the GitHub mark.](../assets/example-event-cover.png)
 
 ## 📱 Social Media Templates
 
@@ -49,11 +43,11 @@ Our social media templates are designed to maximize engagement across all major 
 
 ### Required Information to Add
 
-* [ ] **Event name**: `GitHub Copilot Dev Days | [City Name]`
+* [ ] **Event name**: `GitHub Copilot Dev Days [City Name]`
 * [ ] **Event date** (e.g., "April 15, 2026")
 * [ ] **Event time** (e.g., "2:00 PM – 5:00 PM")
-* [ ] **Location name** (city or venue)
-* [ ] **Registration link**
+* [ ] **Location name** (e.g. "Tech Hub Conference Center")
+* [ ] **Registration link** (once you submit your registration page to us, we will provide a unique shortened URL that you can use here and to promote your event)
 
 ### Design Tips
 

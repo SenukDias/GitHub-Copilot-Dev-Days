@@ -63,8 +63,9 @@ This helps identify your event as part of the global initiative.
 
 **Your registration page should clearly include:** event description, agenda, date, time, location, banner, and the standardized event name.
 
-> [!TIP]
-> You can host your registration page on platforms such as Meetup, Luma, or any tool your community already uses.
+> [!TIP]  
+> We highly recommend using **Luma** (free) to create your registration page, as your event will be included in our **Luma calendar**.  
+> You may also use other platforms such as Meetup or any tool your community already uses.
 
 > [!NOTE]
 > We recommend including an event **code of conduct** to help create a welcoming and respectful environment for all participants.
