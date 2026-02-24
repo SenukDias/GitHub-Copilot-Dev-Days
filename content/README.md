@@ -82,7 +82,7 @@ Each track includes the **GitHub Copilot Dev Days – Core Content Session** and
 | Name          | Type         | Time      | Description / Concepts Taught | Level                    |
 | ------------- | ------------ | --------- | ----------------------------- | ------------------------ |
 | [**.NET 10 + Blazor + Visual Studio 2026**](https://dotnet-presentations.github.io/visual-studio-github-copilot-lab/) | Hands-on Lab | ~2 hr | Build a TinyShop e-commerce app while mastering GitHub Copilot in Visual Studio 2026. Covers code completion (including NES), Agent mode, MCP servers, planning mode, cloud delegation, and AI-first workflows. | Intermediate |
-| [**.NET 10 + .NET MAUI – Visual Studio 2026**](https://dotnet-presentations.github.io/dotnet-maui-workshop/) | Hands-on Lab | ~4 hr | Build a Monkey Finder cross-platform app while learning .NET MAUI fundamentals. Covers MVVM and data binding, Shell navigation, platform features (GPS, connectivity, maps), CollectionView patterns, and app theming across Android, iOS, macOS, and Windows. | Beginner / Intermediate |
+
 
 #### 🍎 GitHub Copilot for Xcode & Apple Developers
 
