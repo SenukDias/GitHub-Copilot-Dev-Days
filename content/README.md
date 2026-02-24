@@ -87,7 +87,7 @@ Each track includes the **GitHub Copilot Dev Days – Core Content Session** and
 
 | Name          | Type         | Time      | Description / Concepts Taught | Level         |
 | ------------- | ------------ | --------- | ----------------------------- | ------------- |
-| [**Xcode Workshop**](https://copilot-dev-days.github.io/xcode-workshop/) | Hands-on Lab | ~60 min | Learn GitHub Copilot in Xcode with a SwiftUI app. Covers code completion, Copilot Chat, Agent Mode, Plan Agent, MCP integration, and optional Copilot Vision. | Intermediate |
+| [**Xcode Workshop**](https://copilot-dev-days.github.io/xcode-workshop/) | Hands-on Lab | ~1 hr | Learn GitHub Copilot in Xcode with a SwiftUI app. Covers code completion, Copilot Chat, Agent Mode, Plan Agent, MCP integration, and optional Copilot Vision. | Intermediate |
 
 ### 💡 GitHub Copilot for IntelliJ, Eclipse & Java Developers
 
