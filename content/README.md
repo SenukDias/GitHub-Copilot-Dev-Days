@@ -54,7 +54,6 @@ Each track includes the **GitHub Copilot Dev Days – Core Content Session** and
 | Name          | Type         | Time      | Description / Concepts Taught | Level         |
 | ------------- | ------------ | --------- | ----------------------------- | ------------- |
 | [**TypeScript Copilot Agent Lab**](https://copilot-dev-days.github.io/agent-lab-typescript/) | Hands-on Lab | ~1 hr | Build a Social Bingo game while mastering VS Code Copilot Agent Mode. Covers context engineering, agentic primitives (background/cloud/custom agents), design-first development, and TDD workflows. | Intermediate |
-| [**Mona Mayhem Lab**](https://copilot-dev-days.github.io/mona-mayhem/) | Hands-on Lab | ~1 hr | Build a retro arcade contribution-battle game while learning context engineering, Plan Mode, Agent Mode, multi-agent workflows, and design-first development in VS Code. | Intermediate |
 
 
 #### Python Track
@@ -76,20 +75,22 @@ Each track includes the **GitHub Copilot Dev Days – Core Content Session** and
 | ------------- | ------------ | --------- | ----------------------------- | ------------- |
 | [**.NET 10 + Blazor WebAssembly – Copilot Agent Lab**](https://copilot-dev-days.github.io/agent-lab-dotnet/) | Hands-on Lab | ~1 hr | Build a Social Bingo game while mastering VS Code Copilot Agent Mode in .NET. Covers context engineering, agentic primitives (background/cloud/custom agents), design-first development, and TDD workflows. | Intermediate |
 
-### GitHub Copilot in Visual Studio for .NET
+### GitHub Copilot and other IDEs
+
+#### GitHub Copilot in Visual Studio for .NET
 
 | Name          | Type         | Time      | Description / Concepts Taught | Level                    |
 | ------------- | ------------ | --------- | ----------------------------- | ------------------------ |
 | [**.NET 10 + Blazor + Visual Studio 2026**](https://dotnet-presentations.github.io/visual-studio-github-copilot-lab/) | Hands-on Lab | ~2 hr | Build a TinyShop e-commerce app while mastering GitHub Copilot in Visual Studio 2026. Covers code completion (including NES), Agent mode, MCP servers, planning mode, cloud delegation, and AI-first workflows. | Intermediate |
 | [**.NET 10 + .NET MAUI – Visual Studio 2026**](https://dotnet-presentations.github.io/dotnet-maui-workshop/) | Hands-on Lab | ~4 hr | Build a Monkey Finder cross-platform app while learning .NET MAUI fundamentals. Covers MVVM and data binding, Shell navigation, platform features (GPS, connectivity, maps), CollectionView patterns, and app theming across Android, iOS, macOS, and Windows. | Beginner / Intermediate |
 
-### 🍎 GitHub Copilot for Xcode & Apple Developers
+#### 🍎 GitHub Copilot for Xcode & Apple Developers
 
 | Name          | Type         | Time      | Description / Concepts Taught | Level         |
 | ------------- | ------------ | --------- | ----------------------------- | ------------- |
 | [**Xcode Workshop**](https://copilot-dev-days.github.io/xcode-workshop/) | Hands-on Lab | ~1 hr | Learn GitHub Copilot in Xcode with a SwiftUI app. Covers code completion, Copilot Chat, Agent Mode, Plan Agent, MCP integration, and optional Copilot Vision. | Intermediate |
 
-### 💡 GitHub Copilot for IntelliJ, Eclipse & Java Developers
+#### 💡 GitHub Copilot for IntelliJ, Eclipse & Java Developers
 
 | Name          | Type         | Time      | Description / Concepts Taught | Level         |
 | ------------- | ------------ | --------- | ----------------------------- | ------------- |
@@ -101,11 +102,11 @@ Each track includes the **GitHub Copilot Dev Days – Core Content Session** and
 | ------------- | ------------ | --------- | ----------------------------- | ------------- |
 | [**Tailspin Toys Workshop**](https://copilot-dev-days.github.io/tailspin-toys-workshop/) | Hands-on Lab | ~90 min | Master GitHub Copilot in the terminal with Tailspin Toys. Covers custom instructions, Copilot CLI setup, MCP servers, custom agents, and agent skills for AI-assisted delivery. | Intermediate |
 
-### ☁️ Leverage the GitHub Copilot Cloud Agent for Asynchronous Development 
+### ☁️ GitHub Copilot Coding Agents for Asynchronous Development
 
 | Name          | Type         | Time      | Description / Concepts Taught | Level         |
 | ------------- | ------------ | --------- | ----------------------------- | ------------- |
-| Coming Soon | Hands-on Lab | 60 min    | To be defined                 | To be defined |
+| [**Mona Mayhem Lab**](https://copilot-dev-days.github.io/mona-mayhem/) | Hands-on Lab | ~1 hr | Build a retro arcade contribution-battle game while learning context engineering, Plan Mode, Agent Mode, multi-agent workflows, and design-first development in VS Code. | Intermediate |
 
 ## 🧠 How to use this content
 
