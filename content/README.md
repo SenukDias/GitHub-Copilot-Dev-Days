@@ -49,7 +49,7 @@ Each track includes the **GitHub Copilot Dev Days – Core Content Session** and
 
 ### GitHub Copilot for VS Code
 
-#### Typescript / JavaScript Track
+#### TypeScript / JavaScript Track
 
 | Name          | Type         | Time      | Description / Concepts Taught | Level         |
 | ------------- | ------------ | --------- | ----------------------------- | ------------- |
