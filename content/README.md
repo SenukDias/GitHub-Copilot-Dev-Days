@@ -54,7 +54,7 @@ Each track includes the **GitHub Copilot Dev Days – Core Content Session** and
 | Name          | Type         | Time      | Description / Concepts Taught | Level         |
 | ------------- | ------------ | --------- | ----------------------------- | ------------- |
 | [**TypeScript Copilot Agent Lab**](https://copilot-dev-days.github.io/agent-lab-typescript/) | Hands-on Lab | ~1 hr | Build a Social Bingo game while mastering VS Code Copilot Agent Mode. Covers context engineering, agentic primitives (background/cloud/custom agents), design-first development, and TDD workflows. | Intermediate |
-| [**Mona Mayhem Lab**](https://copilot-dev-days.github.io/mona-mayhem/) | Hands-on Lab | ~60 min | Build a retro arcade contribution-battle game while learning context engineering, Plan Mode, Agent Mode, multi-agent workflows, and design-first development in VS Code. | Intermediate |
+| [**Mona Mayhem Lab**](https://copilot-dev-days.github.io/mona-mayhem/) | Hands-on Lab | ~1 hr | Build a retro arcade contribution-battle game while learning context engineering, Plan Mode, Agent Mode, multi-agent workflows, and design-first development in VS Code. | Intermediate |
 
 
 #### Python Track
