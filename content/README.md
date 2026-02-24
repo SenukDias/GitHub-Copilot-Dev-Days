@@ -68,7 +68,7 @@ Each track includes the **GitHub Copilot Dev Days – Core Content Session** and
 | Name          | Type         | Time      | Description / Concepts Taught | Level         |
 | ------------- | ------------ | --------- | ----------------------------- | ------------- |
 | [**Java Copilot Agent Lab**](https://copilot-dev-days.github.io/agent-lab-java/) | Hands-on Lab | ~1 hr | Build a Social Bingo game while mastering VS Code Copilot Agent Mode in a Java stack. Covers context engineering, agentic primitives, design-first development, and TDD workflows. | Intermediate |
-| [**Java App Modernization Workshop**](https://copilot-dev-days.github.io/appmod-workshop-java/) | Hands-on Lab | ~60 min | Modernize a legacy Java app with Copilot: assess modernization opportunities, upgrade Java/Spring Boot, add health endpoints, and containerize for cloud-native deployment. | Intermediate |
+| [**Java App Modernization Workshop**](https://copilot-dev-days.github.io/appmod-workshop-java/) | Hands-on Lab | ~1 hr | Modernize a legacy Java app with Copilot: assess modernization opportunities, upgrade Java/Spring Boot, add health endpoints, and containerize for cloud-native deployment. | Intermediate |
 
 #### .NET / C# Track
 
