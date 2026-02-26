@@ -2,6 +2,10 @@
 
 This marketing toolkit provides everything you need to successfully promote your **GitHub Copilot Dev Days** event. All materials are professionally designed and ready to customize with your event details.
 
+## 💜 Series Hashtag
+
+When posting about your GitHub Copilot Dev Days event, include our series hashtag in your post: **#GitHubCopilotDevDays**
+
 ## 📥 Getting Started
 
 1. **Download** [the PowerPoint templates from this folder](./templates/)
@@ -43,7 +47,7 @@ Our social media templates are designed to maximize engagement across all major 
 
 ### Required Information to Add
 
-* [ ] **Event name**: `GitHub Copilot Dev Days [City Name]`
+* [ ] **Event name**: `GitHub Copilot Dev Days | [City Name]`
 * [ ] **Event date** (e.g., "April 15, 2026")
 * [ ] **Event time** (e.g., "2:00 PM – 5:00 PM")
 * [ ] **Location name** (e.g. "Tech Hub Conference Center")
