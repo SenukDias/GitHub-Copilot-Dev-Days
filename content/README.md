@@ -36,7 +36,7 @@ This session can be used in every GitHub Copilot Dev Days event.
 
 | Name          | Type         | Time      | Description / Concepts Taught | Level         |
 | ------------- | ------------ | --------- | ----------------------------- | ------------- |
-| **GitHub Copilot Dev Days Overview** | Session | ~30 - 60 min | [Slides](GitHub%20Copilot%20Dev%20Days%20Overview.pptx) | Beginner |
+| **GitHub Copilot Dev Days Overview** | Session | ~30 - 60 min | [Slides](https://1drv.ms/p/c/81ca8b32607fd7e7/IQA1vUA5H6AJQ7l5zhTkLA42AcPT_L60EtiW3CtBisfUaXw?e=enwvf4) | Beginner |
 
 
 ## 📚 Content Tracks - Workshops
