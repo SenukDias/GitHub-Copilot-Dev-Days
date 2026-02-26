@@ -3,9 +3,6 @@
 This folder contains the **official content** for **GitHub Copilot Dev Days**, including presentation slides and hands-on labs.
 Organizers can select content based on their audience, event format, and available time.
 
-> 📅 **Content availability**
-> All content listed below will be published during the week of **February 16**.
-
 ## 🗓️ Sample Agenda (Sessions + Workshop)
 
 This is a suggested agenda for events following the **Sessions + Workshop** format
@@ -13,8 +10,8 @@ This is a suggested agenda for events following the **Sessions + Workshop** form
 
 | Order | Session            | Type         | Estimated Time | Description                                                                           |
 | ----: | ------------------ | ------------ | -------------- | ------------------------------------------------------------------------------------- |
-|    01 | Core Content       | Session      | 30–45 min      | Core technical content provided by the GitHub Copilot Dev Days program.               |
-|    02 | Community Session  | Session      | 30–45 min      | A session led by the local community, showcasing real-world use cases or experiences. |
+|    01 | [GitHub Copilot: Your AI Companion for Every Workflow](https://1drv.ms/p/c/81ca8b32607fd7e7/IQA1vUA5H6AJQ7l5zhTkLA42AcPT_L60EtiW3CtBisfUaXw?e=enwvf4)   | Session      | 30–45 min      | The provided slide deck is a comprehensive, all-in-one resource that includes sections for every major GitHub Copilot topic area.               |
+|    02 | Community Session  | Session      | 30–45 min      | A session led by the local community, showcasing real-world use cases or experiences. Optional — can be skipped if you choose a longer workshop. |
 |    03 | Hands-on Lab       | Hands-on Lab | 60 min         | Guided, practical exercises using GitHub Copilot.                                     |
 
 > This agenda combines **official content**, **community-led sessions**, and **hands-on practice** in a balanced format.
@@ -36,10 +33,12 @@ This session can be used in every GitHub Copilot Dev Days event.
 
 | Name          | Type         | Time      | Description / Concepts Taught | Level         |
 | ------------- | ------------ | --------- | ----------------------------- | ------------- |
-| **GitHub Copilot Dev Days Overview** | Session | ~30 - 60 min | [Slides](https://1drv.ms/p/c/81ca8b32607fd7e7/IQA1vUA5H6AJQ7l5zhTkLA42AcPT_L60EtiW3CtBisfUaXw?e=enwvf4) | Beginner |
+| [**GitHub Copilot: Your AI Companion for Every Workflow**](https://1drv.ms/p/c/81ca8b32607fd7e7/IQA1vUA5H6AJQ7l5zhTkLA42AcPT_L60EtiW3CtBisfUaXw?e=enwvf4) | Session | ~30 - 60 min | Comprehensive slide deck covering every major GitHub Copilot topic area. | Beginner |
 
 
 ## 📚 Content Tracks - Workshops
+
+![GitHub Copilot Dev Days Labs](../assets/devdays-labs.gif)
 
 > 🔎 **Highlight**
 > Most workshops are hosted on the GitHub Copilot Dev Days organization site: [copilot-dev-days.github.io](https://copilot-dev-days.github.io)
@@ -47,37 +46,37 @@ This session can be used in every GitHub Copilot Dev Days event.
 Workshop content is organized by **technology track**.
 Each track includes the **GitHub Copilot Dev Days – Core Content Session** and one of the **hands-on workshops**.
 
-### GitHub Copilot for VS Code
+### 💻 GitHub Copilot for VS Code
 
-#### TypeScript / JavaScript Track
+#### 🟦 TypeScript / JavaScript Track
 
 | Name          | Type         | Time      | Description / Concepts Taught | Level         |
 | ------------- | ------------ | --------- | ----------------------------- | ------------- |
 | [**TypeScript Copilot Agent Lab**](https://copilot-dev-days.github.io/agent-lab-typescript/) | Hands-on Lab | ~1 hr | Build a Social Bingo game while mastering VS Code Copilot Agent Mode. Covers context engineering, agentic primitives (background/cloud/custom agents), design-first development, and TDD workflows. | Intermediate |
 
 
-#### Python Track
+#### 🐍 Python Track
 
 | Name          | Type         | Time      | Description / Concepts Taught | Level         |
 | ------------- | ------------ | --------- | ----------------------------- | ------------- |
 | [**Python Copilot Agent Lab**](https://copilot-dev-days.github.io/agent-lab-python/) | Hands-on Lab | ~1 hr | Build a Social Bingo game while mastering VS Code Copilot Agent Mode. Covers context engineering, agentic primitives (background/cloud/custom agents), design-first development, and TDD workflows. | Intermediate |
 
-#### Java Track
+#### ☕ Java Track
 
 | Name          | Type         | Time      | Description / Concepts Taught | Level         |
 | ------------- | ------------ | --------- | ----------------------------- | ------------- |
 | [**Java Copilot Agent Lab**](https://copilot-dev-days.github.io/agent-lab-java/) | Hands-on Lab | ~1 hr | Build a Social Bingo game while mastering VS Code Copilot Agent Mode in a Java stack. Covers context engineering, agentic primitives, design-first development, and TDD workflows. | Intermediate |
 | [**Java App Modernization Workshop**](https://copilot-dev-days.github.io/appmod-workshop-java/) | Hands-on Lab | ~1 hr | Modernize a legacy Java app with Copilot: assess modernization opportunities, upgrade Java/Spring Boot, add health endpoints, and containerize for cloud-native deployment. | Intermediate |
 
-#### .NET / C# Track
+#### 🟣 .NET / C# Track
 
 | Name          | Type         | Time      | Description / Concepts Taught | Level         |
 | ------------- | ------------ | --------- | ----------------------------- | ------------- |
 | [**.NET 10 + Blazor WebAssembly – Copilot Agent Lab**](https://copilot-dev-days.github.io/agent-lab-dotnet/) | Hands-on Lab | ~1 hr | Build a Social Bingo game while mastering VS Code Copilot Agent Mode in .NET. Covers context engineering, agentic primitives (background/cloud/custom agents), design-first development, and TDD workflows. | Intermediate |
 
-### GitHub Copilot and other IDEs
+### 🛠️ GitHub Copilot and other IDEs
 
-#### GitHub Copilot in Visual Studio for .NET
+#### 💜 GitHub Copilot in Visual Studio for .NET
 
 | Name          | Type         | Time      | Description / Concepts Taught | Level                    |
 | ------------- | ------------ | --------- | ----------------------------- | ------------------------ |
