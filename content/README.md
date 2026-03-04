@@ -10,7 +10,7 @@ This is a suggested agenda for events following the **Sessions + Workshop** form
 
 | Order | Session            | Type         | Estimated Time | Description                                                                           |
 | ----: | ------------------ | ------------ | -------------- | ------------------------------------------------------------------------------------- |
-|    01 | [GitHub Copilot: Your AI Companion for Every Workflow](https://1drv.ms/p/c/81ca8b32607fd7e7/IQA1vUA5H6AJQ7l5zhTkLA42AcPT_L60EtiW3CtBisfUaXw?e=enwvf4)   | Session      | 30–45 min      | The provided slide deck is a comprehensive, all-in-one resource that includes sections for every major GitHub Copilot topic area.               |
+|    01 | [GitHub Copilot: Your AI Companion for Every Workflow](./GitHub%20Copilot%20Dev%20Days%20Overview.pptx)   | Session      | 30–45 min      | The provided slide deck is a comprehensive, all-in-one resource that includes sections for every major GitHub Copilot topic area.               |
 |    02 | Community Session  | Session      | 30–45 min      | A session led by the local community, showcasing real-world use cases or experiences. Optional — can be skipped if you choose a longer workshop. |
 |    03 | Hands-on Lab       | Hands-on Lab | 60 min         | Guided, practical exercises using GitHub Copilot.                                     |
 
@@ -50,7 +50,23 @@ This session can be used in every GitHub Copilot Dev Days event.
 
 | Name          | Type         | Time      | Description / Concepts Taught | Level         |
 | ------------- | ------------ | --------- | ----------------------------- | ------------- |
-| [**GitHub Copilot: Your AI Companion for Every Workflow**](https://1drv.ms/p/c/81ca8b32607fd7e7/IQA1vUA5H6AJQ7l5zhTkLA42AcPT_L60EtiW3CtBisfUaXw?e=enwvf4) | Session | ~30 - 60 min | Comprehensive slide deck covering every major GitHub Copilot topic area. | Beginner |
+| [**GitHub Copilot: Your AI Companion for Every Workflow**](./GitHub%20Copilot%20Dev%20Days%20Overview.pptx) | Session | ~30 - 60 min | Comprehensive slide deck covering every major GitHub Copilot topic area. | Beginner |
+
+
+## 🎤 Product-Specific Presentation Decks
+
+These decks are tailored to specific GitHub Copilot product areas. Organizers can select the decks most relevant to their audience and event focus.
+
+| Name | Description |
+| ---- | ----------- |
+| [**Agentic Workflows**](./GitHub%20Copilot%20Dev%20Days%20-%20Agentic%20Workflows.pptx) | Agentic workflows and AI-assisted development patterns with GitHub Copilot. |
+| [**CLI**](./GitHub%20Copilot%20Dev%20Days%20-%20CLI.pptx) | GitHub Copilot in the terminal and command-line workflows. |
+| [**Cloud Agent**](./GitHub%20Copilot%20Dev%20Days%20-%20Cloud%20Agent.pptx) | GitHub Copilot coding agents for asynchronous, cloud-based development. |
+| [**Copilot SDK**](./GitHub%20Copilot%20Dev%20Days%20-%20Copilot%20SDK.pptx) | Building with the GitHub Copilot SDK and extensibility platform. |
+| [**JetBrains and Eclipse**](./GitHub%20Copilot%20Dev%20Days%20-%20JetBrains%20and%20Eclipse.pptx) | GitHub Copilot in JetBrains IDEs and Eclipse. |
+| [**VS Code**](./GitHub%20Copilot%20Dev%20Days%20-%20VS%20Code.pptx) | GitHub Copilot in Visual Studio Code. |
+| [**Visual Studio**](./GitHub%20Copilot%20Dev%20Days%20-%20Visual%20Studio.pptx) | GitHub Copilot in Visual Studio. |
+| [**Xcode**](./GitHub%20Copilot%20Dev%20Days%20-%20Xcode.pptx) | GitHub Copilot for Xcode and Apple developers. |
 
 
 ## 📚 Content Tracks - Workshops
