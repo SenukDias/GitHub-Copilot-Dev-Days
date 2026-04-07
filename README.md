@@ -8,11 +8,11 @@
 
 Open to all developers, the events are led by local tech communities and designed to be highly practical. Each session runs for approximately **3 hours** and focuses on real-world workflows, hands-on activities, and workshops centered on AI-assisted coding with GitHub Copilot.
 
-## 🏙️ Host an event in your city
+## 🏙️ Find an event in your city
 
 Find an event near you on our [Luma calendar](https://aka.ms/githubcopilotdevdays).
 
-🌟 Don't see an event in your city? Sign up to host one using this [sign up form](https://aka.ms/githubcopilotdevdays/form).
+This round of Dev Days is closed for new events. Thank you to all of our amaznig organizers!
 
 ## 🌱 Getting started
 
